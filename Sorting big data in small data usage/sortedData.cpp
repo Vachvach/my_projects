@@ -109,6 +109,4 @@ int main()
     // randomn();
     // read_and_load();
     // sorting_main();
-    int rg = {1};
-    std::cout << rg;
 }
